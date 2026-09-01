@@ -49,4 +49,4 @@ GitHub: https://github.com/NatiaBeroshvili
 
 ### ✨ Thanks for visiting my profile!
 
-I'm always learning, building and looking for new opportunities to grow as a developer.
+
