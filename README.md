@@ -23,7 +23,7 @@ Currently exploring **Angular, TypeScript and advanced CSS**.
 
 ![Static Badge](https://img.shields.io/badge/Git-orange)
 ![Static Badge](https://img.shields.io/badge/GitHub-black)
-![Static Badge](https://img.shields.io/badge/VS%20code%20-violet)
+![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
 
 
 
