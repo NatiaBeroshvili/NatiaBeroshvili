@@ -13,9 +13,9 @@ Currently exploring **Angular, TypeScript and advanced CSS**.
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
 ![Static Badge](https://img.shields.io/badge/CSS-violet)
 ![Static Badge](https://img.shields.io/badge/SCSS-jaune)
-![Static Badge](https://img.shields.io/badge/JavaScript-orange)
-![Static Badge](https://img.shields.io/badge/Angular-violet)
-![Static Badge](https://img.shields.io/badge/TypeScript-black)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/Angular-pink)
+![Static Badge](https://img.shields.io/badge/TypeScript-blue)
 
 
 
@@ -42,6 +42,5 @@ Currently exploring **Angular, TypeScript and advanced CSS**.
 
 ## Contact
 
-[LinkedIn]([https://www.example.com](https://www.linkedin.com/in/natia-beroshvili-a10063405/)
+![Static Badge](https://img.shields.io/badge/linkedin-blue)
 
- • GitHub  
