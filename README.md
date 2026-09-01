@@ -8,10 +8,25 @@ Currently exploring **Angular, TypeScript and advanced CSS**.
 ## Skills
 
 
-![Static Badge](https://img.shields.io/badge/HTML5-orange)
+**Front-End:**
 
-**Front-End:** HTML • CSS • SCSS • JavaScript • TypeScript • Angular  
-**Tools:** Git • GitHub • VS Code
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/CSS-violet)
+![Static Badge](https://img.shields.io/badge/SCSS-jaune)
+![Static Badge](https://img.shields.io/badge/JavaScript-orange)
+![Static Badge](https://img.shields.io/badge/Angular-violet)
+![Static Badge](https://img.shields.io/badge/TypeScript-black)
+
+
+
+**Tools:** 
+
+![Static Badge](https://img.shields.io/badge/Git-orange)
+![Static Badge](https://img.shields.io/badge/GitHub-black)
+![Static Badge](https://img.shields.io/badge/VS%20code%20-violet)
+
+
+
 
 ---
 
@@ -22,11 +37,6 @@ Currently exploring **Angular, TypeScript and advanced CSS**.
 - **Railway Project** — Train reservation UI  
 - **Portfolio** — Personal website  
 
----
-
-## Learning
-
-Angular • TypeScript • Modern JS • SCSS • UI/UX • Components
 
 ---
 
