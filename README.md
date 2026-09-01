@@ -42,4 +42,6 @@ Currently exploring **Angular, TypeScript and advanced CSS**.
 
 ## Contact
 
-LinkedIn • GitHub  
+[LinkedIn]([https://www.example.com](https://www.linkedin.com/in/natia-beroshvili-a10063405/)
+
+ • GitHub  
